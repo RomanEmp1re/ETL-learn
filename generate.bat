@@ -1,0 +1,1 @@
+C:\Users\roman\Documents\IT_learn\etl_learn\env\Scripts\python.exe C:\Users\roman\Documents\IT_learn\etl_learn\env\Scripts\python.exe   
